@@ -1,4 +1,4 @@
-# Campus-Project
+# Cocktail-Party
 
 This repo holds a simple sample Vue.js app. In order to run it, you just need to do the following simple steps:
 
